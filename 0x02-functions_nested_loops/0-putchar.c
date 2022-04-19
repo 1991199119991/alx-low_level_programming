@@ -5,7 +5,7 @@
  *
  * Return: Always zero
  */
-int main (void)
+int main(void)
 {
 	_putchar('m');
 	_putchar('a');
