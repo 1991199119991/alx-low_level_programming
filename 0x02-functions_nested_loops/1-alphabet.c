@@ -1,10 +1,10 @@
 #include "main.h"
- /**
-  * print_alphabet - Make the alphabet
-  * _putchar - print alphabet
-  *
-  * Return: void
-  */
+/**
+ *print_alphabet - Make the alphabet
+ *_putchar - print alphabet
+ *
+ *Return: void
+ */
 void print_alphabet(void)
 {
 	char c;
