@@ -1,6 +1,7 @@
 #include "main.h"
  /**
-  * print_alphabet - print alphabet in lowcast
+  * print_alphabet - Make the alphabet
+  * _putchar - print alphabet
   *
   * Return: void
   */
