@@ -1,4 +1,5 @@
 #include "lists.h"
+
 /**
  * free_listint_safe - define function
  * @h:
@@ -6,6 +7,6 @@
  */
 size_t free_listint_safe(listint_t **h)
 {
-	h++;
+	(void) h;
 	return (0);
 }
